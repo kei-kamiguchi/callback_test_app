@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## callback検証用ブログアプリケーション
+Blogモデルにコールバックを定義している。
+コールバックを以下の処理を実行した際にコールされるタイミングを確認できる。
+- ブログを登録
+- ブログを更新
+- ブログを削除
+<img width="905" alt="スクリーンショット 2021-08-24 1 16 09" src="https://user-images.githubusercontent.com/56471454/130481744-29900431-33d7-4601-adfc-8530600400c2.png">
